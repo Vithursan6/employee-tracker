@@ -1,0 +1,28 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "mySQL challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vithursan6/employee-tracker.git"
+  },
+  "keywords": [
+    "week",
+    "12",
+    "challenge",
+    "mySQL"
+  ],
+  "author": "vithursan6",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vithursan6/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Vithursan6/employee-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
