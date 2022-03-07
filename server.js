@@ -213,7 +213,7 @@ function promptInsert(roleChoices) {
 }
 
 
-function removeEmps() {
+function removeEmp() {
   console.log("Deleting an employee");
 
   var query =

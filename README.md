@@ -23,6 +23,13 @@ AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
 SO THAT I can organize and plan my business
 
+<br>
+<br>
+
+---
+<br>
+<br>
+
 ## Acceptance Criteria
 GIVEN a command-line application that accepts user input
 WHEN I start the application
@@ -107,7 +114,7 @@ A mySQL2 employee database created to keep track of employees.Tables were create
 
 ## Demonstration
 
-- [Demo](https://youtu.be/FJDMogc28NQ)
+- [Demo](https://youtu.be/jfetl_fiTtc)
 
 <br>
 <br>
@@ -119,10 +126,6 @@ A mySQL2 employee database created to keep track of employees.Tables were create
 <br>
 
 ## Links
-
-Deployed Application:
-
- - https://Vithusan6.github.io/employee-tracker
 
 Github Repository:
 

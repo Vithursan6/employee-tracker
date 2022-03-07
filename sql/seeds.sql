@@ -1,3 +1,4 @@
+DROP DATABASE IF EXISTS employeesDB;
 USE employeesDB;
 
 INSERT INTO department (name)
